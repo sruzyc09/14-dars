@@ -1,0 +1,69 @@
+.text1 {
+    color: white;
+    text-align: center
+}
+
+.text2 {
+    color: rgb(255, 140, 0);
+    text-align: center;
+}
+
+body {
+    background-color: rgb(47, 60, 79);
+}
+
+th {
+    background-color: rgb(24, 36, 144);
+    border: 1px solid grey;
+}
+
+td {
+    border: 1px solid grey;
+}
+
+form {
+    height: 700px;
+    text-align: center;
+    width: 100%;
+    border: 30px;
+    background-color: black;
+    border-radius: 30px;
+}
+
+label {
+    color: white;
+}
+
+button {
+    background-color: green;
+    color: white;
+    border: 1px solid green;
+    border-radius: 10px;
+    height: 30px;
+    width: 30%;
+}
+
+table {
+    text-align: center;
+    width: 100%;
+    color: white;
+    border-collapse: collapse;
+}
+
+.text3 {
+    height: 30px;
+    width: 30%;
+}
+
+#rasm {
+    width: 110px;
+    height: 20px;
+    border-radius: 5px;
+    color: white;
+}
+
+.rang {
+    width: 10%;
+    background-color: transparent;
+}
+
